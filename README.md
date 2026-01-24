@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br>Full-stack and backend projects using Django, Python, JavaScript, MERN, MySQL, and C++.<br>System-oriented projects such as Airline and School Management Systems, along with unique projects like a Codeforces Chrome Extension and a Perplexity AI Clone.<br><br>👯 I’m looking to collaborate on<br><br>Backend / Full-stack applications<br><br>System design–focused projects<br><br>Open-source projects with clean and scalable architecture<br><br>🤝 I’m looking for help with<br><br>Improving system design and architecture skills<br><br>Writing clean, maintainable, and optimized code<br><br>Internship and interview preparation<br><br>🌱 I’m currently learning<br><br>Advanced backend development<br><br>System design concepts (HLD, LLD, scalability)<br><br>Cloud and database optimization basics<br><br>💬 Ask me about<br><br>Data Structures & Algorithms<br><br>Backend development<br><br>System design fundamentals<br><br>Structuring academic and real-world projects<br><br>⚡ Fun fact<br>I believe clean logic matters more than fancy code.
 
-<!--
-**Deepesh18-error/Deepesh18-error** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/deepesh-saxena-80a7ba290) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepeshsaxena18@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Deepesh18-error&theme=dark&show_icons=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Deepesh18-error&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh18-error&layout=compact&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Deepesh18-error&icon=0&color=0)](https://visitcount.itsvg.in)
