@@ -1,5 +1,34 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Full-stack and backend projects using Django, Python, JavaScript, MERN, MySQL, and C++.<br>System-oriented projects such as Airline and School Management Systems, along with unique projects like a Codeforces Chrome Extension and a Perplexity AI Clone.<br><br>👯 I’m looking to collaborate on<br><br>Backend / Full-stack applications<br><br>System design–focused projects<br><br>Open-source projects with clean and scalable architecture<br><br>🤝 I’m looking for help with<br><br>Improving system design and architecture skills<br><br>Writing clean, maintainable, and optimized code<br><br>Internship and interview preparation<br><br>🌱 I’m currently learning<br><br>Advanced backend development<br><br>System design concepts (HLD, LLD, scalability)<br><br>Cloud and database optimization basics<br><br>💬 Ask me about<br><br>Data Structures & Algorithms<br><br>Backend development<br><br>System design fundamentals<br><br>Structuring academic and real-world projects<br><br>⚡ Fun fact<br>I believe clean logic matters more than fancy code.
+## 🚀 About Me
+
+**🔭 Currently working on**
+- Full-stack and backend projects using **Django, Python, JavaScript, MERN, MySQL, and C++**
+- System-oriented applications like **Airline** and **School Management Systems**
+- Unique projects such as a **Codeforces Chrome Extension** and a **Perplexity AI Clone**
+
+**👯 Looking to collaborate on**
+- Backend and full-stack applications
+- System design–focused projects
+- Open-source projects with clean and scalable architecture
+
+**🤝 Looking for help with**
+- Improving system design and architecture skills
+- Writing clean, maintainable, and optimized code
+- Internship and interview preparation
+
+**🌱 Currently learning**
+- Advanced backend development
+- System design concepts (**HLD, LLD, scalability**)
+- Cloud and database optimization basics
+
+**💬 Ask me about**
+- Data Structures & Algorithms
+- Backend development
+- System design fundamentals
+- Structuring academic and real-world projects
+
+**⚡ Fun fact**
+- I believe clean logic matters more than fancy code.
+
 
 
 ## 🌐 Socials:
@@ -14,3 +43,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Deepesh18-error&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
