@@ -1,20 +1,24 @@
 <div align="center">
-# Deepesh
- 
+
+<h1>Deepesh</h1>
+
 <img src="https://github-readme-stats.vercel.app/api?username=Deepesh18-error&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=Deepesh18-error&theme=radical&hide_border=true" width="48%" />
-<br/>
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
- 
-<br/>
-*Clean logic beats fancy code.*
- 
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+
+<br/><br/>
+
+<i>Clean logic beats fancy code.</i>
+
 </div>
