@@ -19,6 +19,15 @@
 
 <br/><br/>
 
-<i>Clean logic beats fancy code.</i>
+<a href="mailto:deepeshsaxena18@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/deepesh-saxena-80a7ba290" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<i>Life is short mate, so just do commits.</i>
 
 </div>
